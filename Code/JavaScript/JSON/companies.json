@@ -1,0 +1,76 @@
+{
+    "companies" : [
+        {
+            "id": "Target",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        }, 
+        {
+            "id": "H&M/H & M/H and M",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and H&M should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "GAP",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and GAP should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "Levi's/Levi/Levis",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "target",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "target",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "target",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "target",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        },
+        {
+            "id": "target",
+            "doingBadThings" : "True",
+            "manufacturingSite" : "Wenzhou, China",
+            "suppliers" : "",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/"
+        }
+    ]
+}
