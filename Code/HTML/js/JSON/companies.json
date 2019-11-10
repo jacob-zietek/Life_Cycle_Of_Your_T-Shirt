@@ -77,7 +77,7 @@
             "doingBadThings" : "True",
             "suppliers" : "",
             "blurb" : "In 2007, gucci was part of a big scandal with a couple of other Italian luxury companies, but in more recent news Gucci has followed a policy of responsible sourcing including vetting all potential suppliers.",
-            "Articles" : "http://www.thefashionlaw.com/home/the-less-than-transparent-realities-behind-made-in-italy-fashion",
+            "articles" : "http://www.thefashionlaw.com/home/the-less-than-transparent-realities-behind-made-in-italy-fashion",
             "contactInfo" : "1-877-482-2430",
             "twitter" : "https://twitter.com/gucci"
         },
@@ -86,18 +86,27 @@
             "doingBadThings" : "False",
             "suppliers" : "",
             "blurb" : "Due to the California Supply Chains Act, businesses must be transparent about their efforts to stop the use of human trafficking and slavery in overseas manufacturing. Vineyard Vines has complied with this policy and has not made any recent news in the exploitation of cheap laborers.",
-            "Articles" : "https://www.vineyardvines.com/california-supply-chains-act/california-supply-chains-act.html",
+            "articles" : "https://www.vineyardvines.com/california-supply-chains-act/california-supply-chains-act.html",
             "contactInfo" : "1-877-743-7426",
             "twitter" : "https://twitter.com/vineyard_vines"
         },
         {
-            "id": "Kohls/Kohl's",
+            "id": "Kohls/Kohl's/Koles/kohles/",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "Kohls has issued an offical statement saying that the treatment of employees in third party factories is none of their concern.",
+            "articles" : "https://www.chicagotribune.com/news/ct-xpm-2000-08-23-0008230283-story.html",
+            "contactInfo" : "262-703-7000",
+            "twitter" : "https://twitter.com/Kohls"
+        },
+        {
+            "id": "Adidas",
             "doingBadThings" : "False",
             "suppliers" : "",
-            "blurb" : "Due to the California Supply Chains Act, businesses must be transparent about their efforts to stop the use of human trafficking and slavery in overseas manufacturing. Vineyard Vines has complied with this policy and has not made any recent news in the exploitation of cheap laborers.",
-            "Articles" : "https://www.vineyardvines.com/california-supply-chains-act/california-supply-chains-act.html",
-            "contactInfo" : "1-877-743-7426",
-            "twitter" : "https://twitter.com/vineyard_vines"
-        }    
+            "blurb" : "Adidas is part of the Fair Factories Clearinghouse (FFC) which is used to monitor overseas factories for unsafe working conditions and chemcial pollution or anything of the sort.",
+            "articles" : "https://www.adidas-group.com/en/sustainability/compliance/supply-chain-structure/",
+            "contactInfo" : "+49 9132 84 0",
+            "twitter" : "https://twitter.com/adidas"
+        } 
     ]
 }
