@@ -53,6 +53,7 @@ class UIManager {
         document.getElementById("companyBlurb").innerHTML = "We are sorry, we do not have any info currently about " + inputCompany + ".";
         document.getElementById("companyContact").innerHTML = "";
         document.getElementById("companyContact").innerHTML = "";
+        document.getElementById("companyArticle").innerHTML = "";
     }
 
     changeResultsColor(color){
