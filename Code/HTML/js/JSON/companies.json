@@ -1,5 +1,5 @@
 {
-    "companies":[
+    "companies" : [
         {
             "id": "Target",
             "doingBadThings" : "True",
@@ -77,9 +77,27 @@
             "doingBadThings" : "True",
             "suppliers" : "",
             "blurb" : "In 2007, gucci was part of a big scandal with a couple of other Italian luxury companies, but in more recent news Gucci has followed a policy of responsible sourcing including vetting all potential suppliers.",
-            "articles" : "http://www.thefashionlaw.com/home/the-less-than-transparent-realities-behind-made-in-italy-fashion",
-            "contactInfo" : "Phone Number",
-            "twitter" : "twatter"
-        }
+            "Articles" : "http://www.thefashionlaw.com/home/the-less-than-transparent-realities-behind-made-in-italy-fashion",
+            "contactInfo" : "1-877-482-2430",
+            "twitter" : "https://twitter.com/gucci"
+        },
+        {
+            "id": "Vineyard Vines",
+            "doingBadThings" : "False",
+            "suppliers" : "",
+            "blurb" : "Due to the California Supply Chains Act, businesses must be transparent about their efforts to stop the use of human trafficking and slavery in overseas manufacturing. Vineyard Vines has complied with this policy and has not made any recent news in the exploitation of cheap laborers.",
+            "Articles" : "https://www.vineyardvines.com/california-supply-chains-act/california-supply-chains-act.html",
+            "contactInfo" : "1-877-743-7426",
+            "twitter" : "https://twitter.com/vineyard_vines"
+        },
+        {
+            "id": "Kohls/Kohl's",
+            "doingBadThings" : "False",
+            "suppliers" : "",
+            "blurb" : "Due to the California Supply Chains Act, businesses must be transparent about their efforts to stop the use of human trafficking and slavery in overseas manufacturing. Vineyard Vines has complied with this policy and has not made any recent news in the exploitation of cheap laborers.",
+            "Articles" : "https://www.vineyardvines.com/california-supply-chains-act/california-supply-chains-act.html",
+            "contactInfo" : "1-877-743-7426",
+            "twitter" : "https://twitter.com/vineyard_vines"
+        }    
     ]
 }
