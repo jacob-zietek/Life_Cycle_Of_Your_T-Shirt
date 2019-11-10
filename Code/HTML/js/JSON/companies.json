@@ -1,0 +1,85 @@
+{
+    "companies":[
+        {
+            "id": "Target",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "In China where much of Target's supply is manufactured, throwing a cigarette into a river will cause it to light it on fire due to chemical pollution. The textile industry contributes a large portion of the pollution.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/",
+            "contactInfo" : "612-304-6073",
+            "twitter" : "https://twitter.com/Target"
+        }, 
+        {
+            "id": "H&M/H & M/H and M",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "In China where much of H&M's supply is manufactured, throwing a cigarette into a river will cause it to light it on fire due to chemical pollution. The textile industry contributes a large portion of the pollution.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/",
+            "contactInfo" : "855-466-7467",
+            "twitter" : "https://twitter.com/hm_custserv"
+        },
+        {
+            "id": "GAP",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "In China where much of GAP's supply is manufactured, throwing a cigarette into a river will cause it to light it on fire due to chemical pollution. The textile industry contributes a large portion of the pollution.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/",
+            "contactInfo" : "1-800-427-7895",
+            "twitter" : "https://twitter.com/Gap"
+        },
+        {
+            "id": "Levi's/Levi/Levis",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "In China where much of Levi's supply is manufactured, throwing a cigarette into a river will cause it to light it on fire due to chemical pollution. The textile industry contributes a large portion of the pollution.",
+            "articles" : "https://groundswell.org/clothes-made-in-china/",
+            "contactInfo" : "1-800-872-5384",
+            "twitter" : "https://twitter.com/LEVIS"
+        },
+        {
+            "id": "Champion",
+            "doingBadThings" : "False",
+            "suppliers" : "",
+            "blurb" : "There is limited information about the social and environmental impact of Champion's manufacturing, but they are in partnership with the Fair Labor Act and have a policy of working only with overseas manufacturers who use ethical labor.",
+            "articles" : "https://www.fairlabor.org/impact/case-studies/study/severance-payments-terminated-workers-guatemala",
+            "contactInfo" : "1-800-315-0563",
+            "twitter" : "https://twitter.com/ChampionUSA"
+        },
+        {
+            "id": "American Eagle/ae",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "While American Eagle has publically commited to making strides in sustainabiliy and social justice, they have taken very little corrective action after it was exposed that they have contributed to chemical pollution and unsafe working conditions.",
+            "articles" : "https://goodonyou.eco/ethical-american-eagle/",
+            "contactInfo" : "1-888-232-4535",
+            "twitter" : "twatter"
+        },
+        {
+            "id": "Hanes",
+            "doingBadThings" : "False",
+            "suppliers" : "There is limited information about the impact of Champion's manufacturing, but they are in partnership with the Fair Labor Act and have a policy of working only with overseas manufacturers who use ethical labor.",
+            "blurb" : "This is bad and Target should feel bad.",
+            "articles" : "https://www.fairlabor.org/impact/case-studies/study/severance-payments-terminated-workers-guatemala",
+            "contactInfo" : "1-800-503-6702",
+            "twitter" : "https://twitter.com/Hanes"
+        },
+        {
+            "id": "Tommy Hilfiger/Hilfiger",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "While Tommy Hilfiger has pledged over $1 million to implementing updated safety measures in overseas manufacturing facilities, that was only after people died on the job and the company continued to support the factory. Their 'Corporate Responsibility' webpage is also suspiciously not found.",
+            "articles" : "https://abcnews.go.com/Blotter/workers-die-factories-tommy-hilfiger/story?id=15966305",
+            "contactInfo" : "1-888-866-6948",
+            "twitter" : "https://twitter.com/TommyHilfiger"
+        },
+        {
+            "id": "Gucci",
+            "doingBadThings" : "True",
+            "suppliers" : "",
+            "blurb" : "In 2007, gucci was part of a big scandal with a couple of other Italian luxury companies, but in more recent news Gucci has followed a policy of responsible sourcing including vetting all potential suppliers.",
+            "articles" : "http://www.thefashionlaw.com/home/the-less-than-transparent-realities-behind-made-in-italy-fashion",
+            "contactInfo" : "Phone Number",
+            "twitter" : "twatter"
+        }
+    ]
+}

@@ -13,25 +13,26 @@ class UIManager {
             this.displaySorryMessage(inputCompany);
             return null;
         }
-        if(company.doingBadThings){
-            this.loadBadCompany(inputCompany);
+        if(company.doingBadThings == "True"){
+            this.loadBadCompany(inputCompany, company);
         } else {
-            this.loadGoodCompany(inputCompany);
+            this.loadGoodCompany(inputCompany, company);
         }
     }
 
-    loadGoodCompany(inputCompany){
-        this.changeResultsColor("green");
+    loadGoodCompany(name, inputCompany){
+        this.changeResultsColor("#bbff96");
         this.showResults();
-        document.getElementById("companyNameOnPage").innerHTML = inputCompany.id;
+        document.getElementById("companyNameOnPage").innerHTML = name;
         document.getElementById("companyBlurb").innerHTML = inputCompany.blurb;
     }
 
-    loadBadCompany(inputCompany){
-        this.changeResultsColor("red");
+    loadBadCompany(name, inputCompany){
+        this.changeResultsColor("#e60000");
         this.showResults();
-        document.getElementById("companyNameOnPage").innerHTML = inputCompany.id;
+        document.getElementById("companyNameOnPage").innerHTML = name;
         document.getElementById("companyBlurb").innerHTML = inputCompany.blurb;
+        document.getElementById("companyContact").innerHTML = "Company contact<br/>Twitter: " + inputCompany.twitter + "<br/>Phone number: " + inputCompany.contactInfo;
     }
 
     resetCompany(){
@@ -39,13 +40,14 @@ class UIManager {
         this.hideResults();
         document.getElementById("companyNameOnPage").innerHTML = "You're not supposed to see this.";
         document.getElementById("companyBlurb").innerHTML = "You're not supposed to see this.";
+        document.getElementById("companyContact").innerHTML = "You're not supposed to see this.";
     }
 
     displaySorryMessage(inputCompany){
         this.changeResultsColor("white");
         this.showResults()
-        document.getElementById("companyNameOnPage").innerHTML = inputCompany.id;
-        document.getElementById("companyBlurb").innerHTML = "We are sorry, we do not have any info currently about " + inputCompany.id + ".";
+        document.getElementById("companyNameOnPage").innerHTML = inputCompany;
+        document.getElementById("companyBlurb").innerHTML = "We are sorry, we do not have any info currently about " + inputCompany + ".";
     }
 
     changeResultsColor(color){

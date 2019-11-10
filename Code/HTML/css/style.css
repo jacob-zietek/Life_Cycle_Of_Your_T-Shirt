@@ -1089,3 +1089,8 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
+
+#companyNameInput {
+	background-color : rgba(0,0,0,0);
+	color : white;
+}
